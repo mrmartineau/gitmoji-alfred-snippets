@@ -3,10 +3,10 @@
 
 All snippets taken from https://gitmoji.carloscuesta.me/
 
-**Snippets will output the shortcode**, not the actual emoji because that breaks some enviroments; that and Github/Bitbucket interpet the shortcode and display the correct emoji.
+**Snippets will output the shortcode, not the actual emoji** because that breaks some enviroments; that and Github/Bitbucket interpet the shortcode and display the correct emoji.
 
 ## Installation
-**[Download & open this file](gitmoji.alfredsnippets)
+**[Download & open this file](gitmoji.alfredsnippets)**
 
 ## Snippets
 ![](snippets.png)
